@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I was top 5000 Rank in PUBGM on Asia server. Gaming Name : Boogha
 
 <img src= "https://github-readme-stats.vercel.app/api?username=nithindsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nithindsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
