@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 👯 I’m looking to collaborate on [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 💬 Ask me about Machine Learning or any tech related stuff.
 - 📫 How to reach me: LinkedIn - [nithin-dsouza](https://www.linkedin.com/in/nithin-dsouza-b87721147/)
 - ⚡ Fun fact: I was top 5000 Rank in PUBGM on Asia server. Gaming Name : Boogha
 
