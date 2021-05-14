@@ -1,4 +1,4 @@
-### Hi I'am Nithin D Souza! 👋
+### Hi I'm Nithin D Souza! 👋
 
 - 🔭 I’m currently working on [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)
 - 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence)
