@@ -1,6 +1,6 @@
 ### Hi I'm Nithin D Souza! 👋
 
-- 🔭 I’m currently working on [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)
+- 🔭 I’m currently working on life Insurance Policy Renewal and Customer Segmentation.
 - 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
 - 💬 Ask me about Machine Learning or any tech related stuff.
