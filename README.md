@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
 - 💬 Ask me about Machine Learning or any tech related stuff.
-- 📫 How to reach me: LinkedIn - [nithin-dsouza](https://www.linkedin.com/in/nithin-dsouza-b87721147/) , Tableau-Gallery: [nithin.dsouza](https://public.tableau.com/profile/nithin.dsouza#!/)
+- 📫 How to reach me: LinkedIn - [nithin-dsouza](https://www.linkedin.com/in/nithinsouza/) , Tableau-Gallery: [nithin.dsouza](https://public.tableau.com/profile/nithin.dsouza#!/)
 - ⚡ Fun fact: I love playing video games in my free time, Gaming Name : Boogha
 
 ![Nithin D Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithindsouza&show_icons=true&theme=radical)
