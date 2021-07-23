@@ -1,7 +1,7 @@
 ### Hi I'm Nithin D Souza! 👋
 
 - 🔭 I’m currently working on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project. [click](https://health-insurance-renewal-pred.herokuapp.com/)
-- 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
 - 💬 Ask me about Machine Learning or any tech related stuff.
 - 📫 How to reach me: LinkedIn - [nithin-dsouza](https://www.linkedin.com/in/nithin-dsouza-b87721147/) , Tableau-Gallery: [nithin.dsouza](https://public.tableau.com/profile/nithin.dsouza#!/)
