@@ -1,8 +1,8 @@
 ### Hi I'm Nithin D Souza! 👋
 
 - 🔭 Just completed a project on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project.     
-      [View Project](https://health-insurance-renewal-pred.herokuapp.com/) & [View Presentation on YT](https://youtu.be/9Ymq7WSuXDE)
--     Content Based Movie Recommender System with sentiment analysis using AJAX [live demo](https://hollywoodmovie.herokuapp.com/) [source code](https://github.com/nithindsouza/Movie-Recommendation-System-with-sentimemtal-analysis)
+      [[Live demo](https://health-insurance-renewal-pred.herokuapp.com/) & [View Presentation on YT](https://youtu.be/9Ymq7WSuXDE)]
+- Content Based Movie Recommender System with sentiment analysis using AJAX [[Live demo](https://hollywoodmovie.herokuapp.com/) & [Source code](https://github.com/nithindsouza/Movie-Recommendation-System-with-sentimemtal-analysis)]
 - 🌱 I’m currently learning [Artificial Intelligence.](https://en.wikipedia.org/wiki/Artificial_intelligence) and [Tableau](https://en.wikipedia.org/wiki/Tableau_Software)
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
 - 💬 Ask me about Machine Learning or any tech related stuff.
