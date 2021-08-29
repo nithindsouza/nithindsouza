@@ -1,4 +1,4 @@
-### Hi I'm Nithin D Souza! 👋
+### Hi I'm Nithin D Souza! :wave:
 
 - 🔭 Just completed a project on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project.     
       [[Live demo](https://health-insurance-renewal-pred.herokuapp.com/) & [View Presentation on YT](https://youtu.be/9Ymq7WSuXDE)]
