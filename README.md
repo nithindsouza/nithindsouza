@@ -1,6 +1,6 @@
 ### Hi I'm Nithin D Souza! :wave:
-- Currently Working on cFBW in Aerospace Domain.
-- :man_health_worker: Just completed a project on Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project.     
+- Currently Working in Aerospace Domain.
+- :man_health_worker: Health Insurance Policy Renewal Prediction and Customer Segmentation Machine learning Project.     
       [[Live demo](https://health-insurance-renewal-pred.herokuapp.com/) & [View Presentation on YT](https://youtu.be/9Ymq7WSuXDE)]
 - :movie_camera: Content Based Movie Recommender System with sentiment analysis using AJAX [[Live demo](https://hollywoodmovie.herokuapp.com/) & [Source code](https://github.com/nithindsouza/Movie-Recommendation-System-with-sentimemtal-analysis)]
 - :computer: Currently Working on : 
