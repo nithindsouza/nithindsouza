@@ -11,6 +11,10 @@
 - 🤔 I’m looking for help with best way of data visualization techniques for non-technical audience.
 - 💬 Ask me about Machine Learning or any tech related stuff.
 - ⚡ I love football:soccer: and playing video games:video_game: , Gaming Name : Boogha
+- Reach Me via: [LinkedIn](https://www.linkedin.com/in/nithinsouza/) | [Tableau Gallery](https://public.tableau.com/app/profile/nithin.dsouza)
+
+
+
 
 ![Nithin D Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithindsouza&show_icons=true&theme=radical)
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=nithindsouza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
