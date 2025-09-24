@@ -20,6 +20,7 @@
         <li>👯 I’m looking to collaborate on innovative projects leveraging <strong>AI/ML for real-world solutions</strong>.</li>
         <li>💬 Ask me about <strong>Python, AI/ML, C++, Ada, Formula 1, or CR7</strong>!</li>
         <li>📫 How to reach me: <a href="mailto:nithind74@gmail.com"><strong>nithind74@gmail.com</strong></a></li>
+        <li>💬 My Fortfolio: <a href="https://nithindsouza.github.io/"><strong>nithin.dsouza.io</strong></a></li>
       </ul>
     </td>
     <td valign="top" width="50%">
