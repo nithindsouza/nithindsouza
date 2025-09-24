@@ -43,7 +43,7 @@
 
 ## 🏆 Awards & Achievements
 <p align="center">
-  Honored to be recognized for my work and innovation in AI.
+  Honored to be recognized for my work and innovation in Automation using AI.
   <br><br>
   <a href="https://www.linkedin.com/posts/nithinsouza_gratitude-innovation-ai-activity-7345336687859855360-_JPW" target="_blank">
     <img src="https://img.shields.io/badge/View on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View on LinkedIn">
