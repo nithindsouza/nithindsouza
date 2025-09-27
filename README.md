@@ -19,7 +19,7 @@
         <li>🌱 I’m currently diving deep into the world of <strong>Artificial Intelligence and Machine Learning</strong>.</li>
         <li>👯 I’m looking to collaborate on innovative projects leveraging <strong>AI/ML for real-world solutions</strong>.</li>
         <li>💬 Ask me about <strong>Python, AI/ML, C++, Ada, Formula 1, or CR7</strong>!</li>
-        <li>📫 How to reach me: <a href="mailto:nithind74@gmail.com"><strong>nithind74@gmail.com</strong></a></li>
+        <li>📫 How to reach me: <a href="mailto:nithinza74@gmail.com"><strong>nithinza74@gmail.com</strong></a></li>
         <li>💬 My Fortfolio: <a href="https://nithindsouza.github.io/"><strong>nithin.dsouza.io</strong></a></li>
       </ul>
     </td>
@@ -36,7 +36,7 @@
 **Embedded Software Engineer** at **Honeywell Aerospace Technologies** <img src="https://cdn.worldvectorlogo.com/logos/honeywell-logo-1.svg" height="60" width="120" alt="Honeywell Logo" style="horizontal-align:middle; margin-left:5px;">
 <br>
 *Mar 2022 - Present*
-- Engineered automation tools in Ada/C++ for harmonic input generation, achieving **annual savings of over $49,000**.
+- Engineered automation tools in Ada/C++ for harmonic input generation, achieving **annual savings of over $58,000**.
 - Developed safety-critical I/O functionality for the **nFMS (A320/A350 aircraft)**, ensuring strict compliance with **DO-178C aerospace standards**.
 - Resolved critical flight management system errors and provided technical guidance to streamline development workflows.
 
