@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFvtSZRvnoRzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668749912530?e=1761782400&v=beta&t=9nmdWW1I3CbCGYnKfrvf3JSga8rmM0ldqQBpuHYLvmA" alt="Hello! I'm Nithin Dsouza">
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3393FF&center=true&width=435&lines=AI+%26+ML+Engineer;Embedded+Software+Engineer;Aerospace+Innovator" alt="Typing SVG" /></a>
 </p>
 
